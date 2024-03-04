@@ -1,0 +1,13 @@
+.login-img {
+  background-image: url("../component/images/login4.jpg");
+  background-repeat: none;
+  background-size: contain;
+}
+.log {
+  background-color: #dcc9d6ca
+  ;
+}
+/* .log-img {
+  height: 100%;
+  width: 100%;
+} */

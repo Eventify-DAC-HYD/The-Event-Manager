@@ -1,0 +1,15 @@
+.reg {
+  background: url("../component/images/register2.jpg"); 
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.reg-form {
+  background: rgb(70, 6, 100);
+  background: radial-gradient(
+    circle,
+    rgba(70, 6, 100, 0.99) 37%,
+    rgba(0, 250, 255, 1) 100%,
+    rgba(249, 154, 161, 1) 180%
+  );
+}
+
